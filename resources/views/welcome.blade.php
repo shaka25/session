@@ -39,6 +39,7 @@
         <div class="container">
             <div class="content">
                 <div class="title">Laravel 5</div>
+				<h2>Go to <a href="/products">products<a> page</h2>
             </div>
         </div>
     </body>
